@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RegularPoly</name>
+    </assembly>
+    <members>
+        <member name="F:RegularPoly.formMain.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:RegularPoly.formMain.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:RegularPoly.formMain.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:RegularPoly.formMain.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:RegularPoly.formMain.formMain_Paint(System.Object,System.Windows.Forms.PaintEventArgs)">
+            <summary>
+            This is where all the cool stuff happens
+            </summary>
+        </member>
+        <member name="M:RegularPoly.formMain.formMain_Resize(System.Object,System.EventArgs)">
+            <summary>
+            This ensures that the client area is always square
+            </summary>
+        </member>
+    </members>
+</doc>
